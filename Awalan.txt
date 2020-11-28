@@ -1,4 +1,4 @@
-Belajar menambah branch.
+Rencana belajar
 -membuat layout
 + button
 + imagebutton
