@@ -1,3 +1,5 @@
 Belajar menambah branch.
 -membuat layout
 + button
++ textview
++ imageview
